@@ -19,3 +19,8 @@ Amac gozlemleri birbirlerine olan benzerliklerine gore alt kumelere ayirmaktir.
 
 KMeans yonteminde sadece belirli sayida kumeye ayrilibiyoruz.
 Hiyerarsikte ise kume olusturup olusturulan kumeleri de kumelere ayirabiliriz.
+
+# Temel Bilesen Analizi(PCA)
+Temel fikir, cok degiskenli verinin ana ozellikleini daha az sayida degisken/bilesen ile temsil etmektir.
+
+Diger ifade ile; kucuk miktarda bilgi kaybini goze alip degisken boyutunu azaltmak.
